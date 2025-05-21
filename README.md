@@ -1,4 +1,4 @@
-# Hinge Data Analysis
+# KHinge Data Analysis
 ## Purpose
 This project analyzes personal data exported from Hinge to provide valuable insights into the user's experiences on the platform. By examining the user's profile, dating preferences, and interactions with other users, the project aims to reveal patterns, trends, and meaningful statistics that enhance the understanding of how users engage with Hinge and make decisions based on their preferences.
 
